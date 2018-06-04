@@ -3,3 +3,8 @@
    const x = $('p')
    return x
  }
+ 
+ function lastImageSelector() {
+   const x = $('img:last')
+   return x
+ }
