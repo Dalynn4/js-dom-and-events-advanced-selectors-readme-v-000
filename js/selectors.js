@@ -8,3 +8,7 @@
    const x = $('img:last')
    return x
  }
+ 
+ function ninjaBabySelector() {
+   return $('#baby-ninja')
+ }
