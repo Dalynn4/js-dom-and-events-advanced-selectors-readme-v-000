@@ -18,5 +18,5 @@
  }
  
  function firstListItem() {
-   return $('#pic-list:first')
+   return $('ul')
  }
