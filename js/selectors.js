@@ -12,3 +12,7 @@
  function ninjaBabySelector() {
    return $('#baby-ninja')
  }
+ 
+ function divSelector() {
+   return $('div img:first_child') && $('div img:second_child')
+ }
